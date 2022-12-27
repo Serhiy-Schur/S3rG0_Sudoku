@@ -77,7 +77,6 @@ function clear_input() {
     document.getElementById('C' + i).value = '';
   }
 }
-
 function setPredefined(lvl) {
   switch (lvl) {
     case 'beginner':

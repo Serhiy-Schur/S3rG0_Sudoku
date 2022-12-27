@@ -1,5 +1,4 @@
 'use strict';
-
 function SudokuSolver() {
 	var puzzle_table = [];
 	function check_candidate(num, row, col) {
